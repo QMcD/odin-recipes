@@ -35,9 +35,7 @@ ol li{
     margin: 5px;
     font-size: 20px;
 }
-*{
-    border: 2px solid red;
-}
+
 .recipes{
     display: flex;
     list-style: none;
