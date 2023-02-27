@@ -35,3 +35,6 @@ ol li{
     margin: 5px;
     font-size: 20px;
 }
+*{
+    border: wpx solid red;
+}
