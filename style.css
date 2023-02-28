@@ -39,5 +39,16 @@ ol li{
 .recipes{
     display: flex;
     list-style: none;
-    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+
+}
+.lasagna,
+.chicken-alfredo{
+    margin-right: 25%;
+    background-color: aqua;
+
+}
+.parmesan{
+    background-color: aqua;
 }
