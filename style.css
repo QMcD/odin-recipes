@@ -39,4 +39,5 @@ ol li{
 .recipes{
     display: flex;
     list-style: none;
+    text-align: center;
 }
